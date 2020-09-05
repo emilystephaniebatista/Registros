@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JikkhsaBi2uqG+5f2ZBbxTvJ8a8b25naeQGIiogykyvFTZ3pl6G24aE/1uN4ueg3He1v38zveFnAUruKqNKVeA==",
+  "success": true,
+  "projectFilePath": "C:\\Desenvolvimento2\\BlazorFilmes-master\\BlazorFilmes-master\\BlazorFilmes\\Shared\\BlazorFilmes.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\emily\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

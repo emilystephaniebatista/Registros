@@ -1,0 +1,87 @@
+@page "/registro/criar"
+
+<h3>Registrar</h3>
+<br>
+<EditForm Model="registro" OnValidSubmit="Create">
+    <DataAnnotationsValidator/>
+  <div class="row">
+    <div class="col-sm">
+      <div class="form-group">
+        <label for="">Title</label>
+        <InputSelect @bind-Value="@registro.Title" class="form-control selectpicker" data-size="3" data-live-search="true" data-width="100%" name="" required>
+            <option selected disabled>Escolha uma opção</option>
+            <option>Mr</option>
+            <option>Outros</option>
+        </InputSelect>
+        <ValidationMessage For="@( () => registro.Title )" />
+      </div>
+    </div>
+    <div class="col-sm">
+      <div class="form-group">
+          <label for="">First name</label>
+          <InputText class="form-control" @bind-Value="@registro.FirstName" />
+            <ValidationMessage For="@( () => registro.FirstName )" />
+      </div>
+    </div>
+    <div class="col-sm">
+      <div class="form-group">
+      <label for="">Last name</label>
+        <InputText class="form-control" @bind-Value="@registro.LastName" />
+            <ValidationMessage For="@( () => registro.LastName )" />
+    </div>    
+    </div>
+
+  </div>
+  <div class="row">
+    <div class="col-sm">
+      <label for="">Date of Birth</label>
+        <InputDate class="form-control" @bind-Value="@registro.DateOfBirth"/>
+            <ValidationMessage For="@( () => registro.DateOfBirth )" />
+    </div>
+    <div class="col-sm">
+      <label for="">E-mail</label>
+        <InputText class="form-control" @bind-Value="@registro.Email" />
+            <ValidationMessage For="@( () => registro.Email )" />
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm">
+      <div class="form-group">
+        <label for="">Password</label>
+        <InputText class="form-control" @bind-Value="@registro.Password"  type="password"/>
+            <ValidationMessage For="@( () => registro.Password )" />
+    </div>
+    </div>
+    <div class="col-sm">
+      <div class="form-group">
+          <label for="">Confirm Password</label>
+          <InputText class="form-control" @bind-Value="@registro.ConfirmPassword" type="password" />
+            <ValidationMessage For="@( () => registro.ConfirmPassword )" />
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm">
+      <div class="form-group">
+        <InputCheckbox @bind-Value="@registro.AcceptTermsConditions" />
+            Accept Terms & Conditions
+            <ValidationMessage For="@( () => registro.AcceptTermsConditions )" />
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm" style="text-align:center">
+      <br>
+      <button type="submit" class="btn btn-primary">Register</button>
+      <button type="button" class="btn btn-secondary">Cancel</button>
+   </div>
+  </div>
+</EditForm>
+
+@code {
+
+  Registro registro = new Registro();
+
+  public void Create(){}
+
+}

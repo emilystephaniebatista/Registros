@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Desenvolvimento2\\BlazorFilmes-master\\BlazorFilmes-master\\BlazorFilmes\\Shared\\BlazorFilmes.Shared.csproj": {}
+  },
+  "projects": {
+    "C:\\Desenvolvimento2\\BlazorFilmes-master\\BlazorFilmes-master\\BlazorFilmes\\Shared\\BlazorFilmes.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Desenvolvimento2\\BlazorFilmes-master\\BlazorFilmes-master\\BlazorFilmes\\Shared\\BlazorFilmes.Shared.csproj",
+        "projectName": "BlazorFilmes.Shared",
+        "projectPath": "C:\\Desenvolvimento2\\BlazorFilmes-master\\BlazorFilmes-master\\BlazorFilmes\\Shared\\BlazorFilmes.Shared.csproj",
+        "packagesPath": "C:\\Users\\emily\\.nuget\\packages\\",
+        "outputPath": "C:\\Desenvolvimento2\\BlazorFilmes-master\\BlazorFilmes-master\\BlazorFilmes\\Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\emily\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,9 @@
+C:\Desenvolvimento2\BlazorFilmes-master\BlazorFilmes-master\BlazorFilmes\Shared\bin\Debug\netstandard2.1\BlazorFilmes.Shared.deps.json
+C:\Desenvolvimento2\BlazorFilmes-master\BlazorFilmes-master\BlazorFilmes\Shared\bin\Debug\netstandard2.1\BlazorFilmes.Shared.dll
+C:\Desenvolvimento2\BlazorFilmes-master\BlazorFilmes-master\BlazorFilmes\Shared\bin\Debug\netstandard2.1\BlazorFilmes.Shared.pdb
+C:\Desenvolvimento2\BlazorFilmes-master\BlazorFilmes-master\BlazorFilmes\Shared\obj\Debug\netstandard2.1\BlazorFilmes.Shared.csprojAssemblyReference.cache
+C:\Desenvolvimento2\BlazorFilmes-master\BlazorFilmes-master\BlazorFilmes\Shared\obj\Debug\netstandard2.1\BlazorFilmes.Shared.AssemblyInfoInputs.cache
+C:\Desenvolvimento2\BlazorFilmes-master\BlazorFilmes-master\BlazorFilmes\Shared\obj\Debug\netstandard2.1\BlazorFilmes.Shared.AssemblyInfo.cs
+C:\Desenvolvimento2\BlazorFilmes-master\BlazorFilmes-master\BlazorFilmes\Shared\obj\Debug\netstandard2.1\BlazorFilmes.Shared.csproj.CoreCompileInputs.cache
+C:\Desenvolvimento2\BlazorFilmes-master\BlazorFilmes-master\BlazorFilmes\Shared\obj\Debug\netstandard2.1\BlazorFilmes.Shared.dll
+C:\Desenvolvimento2\BlazorFilmes-master\BlazorFilmes-master\BlazorFilmes\Shared\obj\Debug\netstandard2.1\BlazorFilmes.Shared.pdb
