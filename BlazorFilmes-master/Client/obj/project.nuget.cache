@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lvQcewd3wzDahRGsTJ1r0TSOcXFjdjL2WDKJU+euuuio5N2uVX6v+mXVnUdw/uQ9yyHRJpNLR+A25fWNSLUZNg==",
+  "dgSpecHash": "ANVhOHEYV3DFUQYxedj+Gq547c0KpA78Tzwem+R21sd1ctQPic6nkBhXLVnxH8aUK7LkUisHiYzFPtKH7g7k7g==",
   "success": true,
-  "projectFilePath": "C:\\Desenvolvimento2\\BlazorFilmes-master\\BlazorFilmes-master\\BlazorFilmes\\Client\\BlazorFilmes.Client.csproj",
+  "projectFilePath": "C:\\registros2\\BlazorFilmes-master\\Client\\BlazorFilmes.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\emily\\.nuget\\packages\\microsoft.aspnetcore.authorization\\3.1.6\\microsoft.aspnetcore.authorization.3.1.6.nupkg.sha512",
     "C:\\Users\\emily\\.nuget\\packages\\microsoft.aspnetcore.components\\3.1.6\\microsoft.aspnetcore.components.3.1.6.nupkg.sha512",

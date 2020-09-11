@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Desenvolvimento2\\BlazorFilmes-master\\BlazorFilmes-master\\BlazorFilmes\\Client\\BlazorFilmes.Client.csproj": {}
+    "C:\\registros2\\BlazorFilmes-master\\Client\\BlazorFilmes.Client.csproj": {}
   },
   "projects": {
-    "C:\\Desenvolvimento2\\BlazorFilmes-master\\BlazorFilmes-master\\BlazorFilmes\\Client\\BlazorFilmes.Client.csproj": {
+    "C:\\registros2\\BlazorFilmes-master\\Client\\BlazorFilmes.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Desenvolvimento2\\BlazorFilmes-master\\BlazorFilmes-master\\BlazorFilmes\\Client\\BlazorFilmes.Client.csproj",
+        "projectUniqueName": "C:\\registros2\\BlazorFilmes-master\\Client\\BlazorFilmes.Client.csproj",
         "projectName": "BlazorFilmes.Client",
-        "projectPath": "C:\\Desenvolvimento2\\BlazorFilmes-master\\BlazorFilmes-master\\BlazorFilmes\\Client\\BlazorFilmes.Client.csproj",
+        "projectPath": "C:\\registros2\\BlazorFilmes-master\\Client\\BlazorFilmes.Client.csproj",
         "packagesPath": "C:\\Users\\emily\\.nuget\\packages\\",
-        "outputPath": "C:\\Desenvolvimento2\\BlazorFilmes-master\\BlazorFilmes-master\\BlazorFilmes\\Client\\obj\\",
+        "outputPath": "C:\\registros2\\BlazorFilmes-master\\Client\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\emily\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -25,8 +25,8 @@
         "frameworks": {
           "netstandard2.1": {
             "projectReferences": {
-              "C:\\Desenvolvimento2\\BlazorFilmes-master\\BlazorFilmes-master\\BlazorFilmes\\Shared\\BlazorFilmes.Shared.csproj": {
-                "projectPath": "C:\\Desenvolvimento2\\BlazorFilmes-master\\BlazorFilmes-master\\BlazorFilmes\\Shared\\BlazorFilmes.Shared.csproj"
+              "C:\\registros2\\BlazorFilmes-master\\Shared\\BlazorFilmes.Shared.csproj": {
+                "projectPath": "C:\\registros2\\BlazorFilmes-master\\Shared\\BlazorFilmes.Shared.csproj"
               }
             }
           }
@@ -78,14 +78,14 @@
         }
       }
     },
-    "C:\\Desenvolvimento2\\BlazorFilmes-master\\BlazorFilmes-master\\BlazorFilmes\\Shared\\BlazorFilmes.Shared.csproj": {
+    "C:\\registros2\\BlazorFilmes-master\\Shared\\BlazorFilmes.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Desenvolvimento2\\BlazorFilmes-master\\BlazorFilmes-master\\BlazorFilmes\\Shared\\BlazorFilmes.Shared.csproj",
+        "projectUniqueName": "C:\\registros2\\BlazorFilmes-master\\Shared\\BlazorFilmes.Shared.csproj",
         "projectName": "BlazorFilmes.Shared",
-        "projectPath": "C:\\Desenvolvimento2\\BlazorFilmes-master\\BlazorFilmes-master\\BlazorFilmes\\Shared\\BlazorFilmes.Shared.csproj",
+        "projectPath": "C:\\registros2\\BlazorFilmes-master\\Shared\\BlazorFilmes.Shared.csproj",
         "packagesPath": "C:\\Users\\emily\\.nuget\\packages\\",
-        "outputPath": "C:\\Desenvolvimento2\\BlazorFilmes-master\\BlazorFilmes-master\\BlazorFilmes\\Shared\\obj\\",
+        "outputPath": "C:\\registros2\\BlazorFilmes-master\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\emily\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -115,11 +115,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Desenvolvimento2\\BlazorFilmes-master\\BlazorFilmes-master\\BlazorFilmes\\Shared\\BlazorFilmes.Shared.csproj",
+      "projectUniqueName": "C:\\registros2\\BlazorFilmes-master\\Shared\\BlazorFilmes.Shared.csproj",
       "projectName": "BlazorFilmes.Shared",
-      "projectPath": "c:\\Desenvolvimento2\\BlazorFilmes-master\\BlazorFilmes-master\\BlazorFilmes\\Shared\\BlazorFilmes.Shared.csproj",
+      "projectPath": "C:\\registros2\\BlazorFilmes-master\\Shared\\BlazorFilmes.Shared.csproj",
       "packagesPath": "C:\\Users\\emily\\.nuget\\packages\\",
-      "outputPath": "c:\\Desenvolvimento2\\BlazorFilmes-master\\BlazorFilmes-master\\BlazorFilmes\\Shared\\obj\\",
+      "outputPath": "C:\\registros2\\BlazorFilmes-master\\Shared\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\emily\\AppData\\Roaming\\NuGet\\NuGet.Config"
